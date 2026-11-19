@@ -21,8 +21,8 @@
 Клонировать репозиторий:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/rewer42/Test-Task-Download-Speed-Test
+cd ./Test-Task-Download-Speed-Test
 ```
 
 Установить зависимость:
